@@ -6,6 +6,7 @@ function understands_video() {
     // Must be older browser or IE.
     // Maybe do something like hide custom
     // HTML5 controls. Or whatever...
-    videoControls.style.display = 'none'; ggg
-    videoControls.style.display = 'none'; hkj
+    videoControls.style.display = 'none'; kfddfd
+    
+    videoControls.style.display = 'none'; hkjdfdhshsd
     }
